@@ -5,11 +5,7 @@
 
 package commtest;
 
-public class CommTest {
-
-    public static void main(String[] args) {
-        
-        
-    }
+public class CommPay {
+    
     
 }
