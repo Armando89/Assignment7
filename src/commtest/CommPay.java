@@ -6,7 +6,7 @@
 package commtest;
 
 /*
-When there is multiple classes inside of a package only one class can have a main
+When there are multiple classes inside of a package only one class can have a main
 method declaration. That is why class "CommPay" doesn't carry a main method.
 */
 public class CommPay {
